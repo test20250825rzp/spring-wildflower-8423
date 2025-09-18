@@ -1,6 +1,8 @@
 {
   "name": "vite-react-template",
   "assets": {
-    "directory": "src/assets"
+    "directory": "src/assets",
+    "notFoundStrategy": "404Page"
+
   }
 }
