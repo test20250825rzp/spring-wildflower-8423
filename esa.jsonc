@@ -2,7 +2,7 @@
   "name": "vite-react-template",
   "entry": "/index.js",
   "assets": {
-    "directory": "src/assets"
-
+    "directory": "src/assets",
+    "notFoundStrategy": "singlePageApplication"
   }
 }
