@@ -1,8 +1,8 @@
 {
-  "name": "vite-react-template",
-  "entry": "/index.js",
+  "name": "nuxt-template",
+  "installCommand": "npm install",
   "assets": {
-    "directory": "src/assets",
-    "notFoundStrategy": "singlePageApplication"
+    "directory": "./dist",
+    "notFoundStrategy": "404Page"
   }
 }
